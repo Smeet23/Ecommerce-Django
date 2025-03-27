@@ -39,7 +39,7 @@ pyspark==3.5.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-# pywin32==308
+pywin32==308
 pyzmq==26.2.0
 redis==5.2.1
 requests==2.32.3
@@ -53,3 +53,4 @@ typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.1
 wcwidth==0.2.13
+whitenoise==6.9.0
